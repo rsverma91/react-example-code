@@ -1,4 +1,4 @@
-#React
+# React
 
 ```
 $ yarn (npm i)
